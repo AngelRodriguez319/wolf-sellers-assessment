@@ -15,21 +15,6 @@ Este proyecto es un microservicio RESTful para la gestión de productos, desarro
 
 ---
 
-## 🧱 Estructura del Proyecto
-src/
-├── manage.py
-├── app/
-│ ├── settings.py
-│ ├── urls.py
-│ └── ...
-└── apps/products/
-├── models.py
-├── serializers.py
-├── views.py
-└── tests/
-
----
-
 ## ⚙️ Requisitos
 
 - Python 3.11
